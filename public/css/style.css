@@ -1,0 +1,72 @@
+@font-face {
+    font-family:IRANSans ;
+    src: url('IRANSans(FaNum)_Medium (1).ttf');
+}
+body{
+    background-color: rgb(230, 230, 230);
+    
+}
+
+.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+}
+
+#search{
+    background-color: #f0f0f1;
+ 
+}
+
+.items{
+    font-weight: 700;
+    font-size: 14px;
+
+}
+
+#btn_bazgasht{
+border-radius: 10px;
+width: 150px;
+margin-left: 35px;
+font-weight: 700;
+}
+
+.item_footer{
+   width: 40px;
+}
+
+#btn-login{
+    border-color: rgb(226, 226, 226);
+    width: 180;
+    height: 46;
+    font-size: 13px;
+    font-weight: 700;
+    color: gray;
+    border-radius: 7px;
+}
+
+.text-kala{
+font-size: 13px;
+}
+
+.number-kala{
+    font-size: 11px;
+}
+
+.namad{
+    border: rgb(172, 171, 171);
+    border-radius: 10px;
+    margin-left: 4px;
+    margin-bottom: 20px;
+}
+
+.item_tah{
+    height: 80px;
+    padding-top: 30px;
+}
+
+.input-btn{
+    background-color: rgb(233, 232, 232);
+    border-radius: 10px;
+    
+}
